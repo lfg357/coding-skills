@@ -1,0 +1,17 @@
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": "skills/universal-karpathy-coding-guidelines/SKILL.md"
+    }
+  ],
+  "github.copilot.chat.reviewSelection.instructions": [
+    {
+      "file": "skills/universal-karpathy-coding-guidelines/SKILL.md"
+    }
+  ],
+  "github.copilot.chat.fix.instructions": [
+    {
+      "file": "skills/universal-karpathy-coding-guidelines/SKILL.md"
+    }
+  ]
+}
